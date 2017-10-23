@@ -25,9 +25,5 @@ Few quick facts (More information you can get on links or ask me directly):
 
    http://www.en-pro.ru/
 
-P.S.:
-
-Because of my current state in company i forced to use some kinda license method. Program seems pretty closed but, just ask me if u need a source code, no problem there.
-
 Best regards,
 Antigosu.
