@@ -1,4 +1,4 @@
-# Configurator
+# Configurator BFM-II
 Boxes for energy control and metering, communication boxes. Made with MS Excel and Visual Basic for Applications.
 
 Hello!
